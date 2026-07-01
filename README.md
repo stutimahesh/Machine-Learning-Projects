@@ -17,6 +17,14 @@ Welcome to my Machine Learning portfolio! This repository serves as a central hu
 
 ---
 
+## 📉 Unsupervised Learning
+
+| Project | Description | Repository |
+|----------|-------------|------------|
+| 📊 K-Means Clustering | K-Means Clustering on the Breast Cancer Wisconsin Dataset with PCA, Elbow Method, and Silhouette Score | [View Project](https://github.com/stutimahesh/k-means-clustering-breast-cancer) |
+
+---
+
 ## 📉 Instance-Based Learning
 
 | Project | Description | Repository |
